@@ -1,4 +1,4 @@
-Uber_clone  
+#Uber_clone  
 -----------------
 [![Download](https://api.bintray.com/packages/glomadrian/maven/MaterialAnimatedSwitch/images/download.svg) ](https://bintray.com/glomadrian/maven/MaterialAnimatedSwitch/_latestVersion)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Material%20Animated%20Switch-green.svg?style=flat)](https://android-arsenal.com/details/1/1985)
@@ -95,14 +95,14 @@ V 1.1
 
 Developed By
 ------------
-Adrián García Lomas - <glomadrian@gmail.com>
+Waleed Shabbir - <itx.uoslhr@gmail.com>
 * [Twitter](https://twitter.com/glomadrian)
 * [LinkedIn](https://es.linkedin.com/in/glomadrian )
 
 License
 -------
 
-    Copyright 2015 Adrián García Lomas
+    Copyright 2017 Waleed Shabbir
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
